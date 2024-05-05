@@ -4,92 +4,139 @@
       "id": 1,
       "title": "Software Design Principles",
       "body": "Exploring SOLID principles and their application in software engineering.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 2,
-      "title": "Homework Tasks for Today",
-      "body": "- Complete math assignment\n- Prepare presentation slides\n- Study for history test",
-      "category": "home"
+      "title": "Foreign Language Presentation",
+      "body": "Preparing and delivering a presentation in a foreign language class.",
+      "category": "school"
     },
     {
       "id": 3,
       "title": "Software Testing Techniques",
       "body": "Understanding various testing methodologies like unit testing, integration testing, and end-to-end testing.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 4,
       "title": "House Chores Checklist",
       "body": "- Vacuum the living room\n- Water the plants\n- Do laundry",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 5,
       "title": "Data Structures and Algorithms Study",
       "body": "Reviewing fundamental data structures and algorithms for software engineering interviews.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 6,
       "title": "Meal Prep Plan",
       "body": "- Plan meals for the week\n- Create grocery shopping list\n- Prep ingredients for tomorrow's dinner",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 7,
       "title": "Software Development Life Cycle",
       "body": "Studying the phases of SDLC and their significance in software project management.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 8,
-      "title": "Home DIY Projects",
+      "title": "work DIY Projects",
       "body": "- Paint the bedroom walls\n- Install new shelves in the kitchen\n- Organize the garage",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 9,
       "title": "Software Architecture Analysis",
       "body": "Evaluating different architectural patterns like MVC, MVVM, and microservices.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 10,
       "title": "Family Dinner Menu Planning",
       "body": "- Choose recipes for the week\n- Make a grocery list\n- Prep ingredients in advance",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 11,
       "title": "Agile Methodology Workshop",
       "body": "Attending a seminar on implementing Agile practices in software development projects.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 12,
-      "title": "Home Decor Project",
+      "title": "work Decor Project",
       "body": "- Redecorate the living room\n- Purchase new furniture pieces\n- Rearrange existing decor",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 13,
       "title": "Software Project Management Review",
       "body": "Brushing up on project management techniques specific to software engineering projects.",
-      "category": "school"
+      "category": "development"
     },
     {
       "id": 14,
       "title": "Gardening Tasks",
       "body": "- Plant new flowers in the garden\n- Prune existing plants\n- Mulch the flower beds",
-      "category": "home"
+      "category": "work"
     },
     {
       "id": 15,
+      "title": "Chemistry Lab Experiment",
+      "body": "Conducting a chemistry experiment to study chemical reactions.",
+      "category": "school"
+    },
+    {
+      "id": 16,
+      "title": "Project Management Meeting",
+      "body": "Discuss project timelines and milestones with the team.",
+      "category": "work"
+    },
+    {
+      "id": 17,
+      "title": "Client Presentation Preparation",
+      "body": "Prepare slides and materials for an upcoming client presentation.",
+      "category": "work"
+    },
+    {
+      "id": 18,
+      "title": "Mathematics Exam Preparation",
+      "body": "Studying for the upcoming mathematics exam covering algebra and geometry.",
+      "category": "school"
+    },
+    {
+      "id": 19,
+      "title": "History Research Paper",
+      "body": "Writing a research paper on a historical event in World War II.",
+      "category": "school"
+    },
+    {
+      "id": 20,
+      "title": "Science Fair Project",
+      "body": "Creating a science project on environmental sustainability for the school science fair.",
+      "category": "school"
+    },
+    {
+      "id": 21,
+      "title": "Literature Reading Assignment",
+      "body": "Reading and analyzing a classic novel for the literature class.",
+      "category": "school"
+    },
+    {
+      "id": 22,
       "title": "Programming Languages Research",
       "body": "Investigating the features and use cases of programming languages like Python, Java, and C++.",
-      "category": "school"
+      "category": "development"
+    },
+    {
+      "id": 23,
+      "title": "workwork Tasks for Today",
+      "body": "- Complete math assignment\n- Prepare presentation slides\n- Study for history test",
+      "category": "work"
     }
-
   ]
 }
